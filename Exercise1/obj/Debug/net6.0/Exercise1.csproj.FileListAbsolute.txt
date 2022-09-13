@@ -1,0 +1,15 @@
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\bin\Debug\net6.0\Exercise1.exe
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\bin\Debug\net6.0\Exercise1.dll
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.dll
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+E:\Major Semester\8\PRU221m\exercises\work\Exercise1\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
