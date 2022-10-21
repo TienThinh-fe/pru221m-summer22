@@ -1,0 +1,30 @@
+c:\users\albert\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+c:\users\albert\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+c:\users\albert\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+c:\users\albert\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+c:\users\albert\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+D:\Dropbox\Coursera\4 Data Struct Des Patterns\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
+D:\Dropbox\Coursera C# Unity\4 Data Struct Des Patterns\Module 2 Linked Lists and Graphs\Lesson 1 Linked Lists\Exercise 5 Double the Links\2 1 Visual Studio Exercise 5 Solution\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojAssemblyReference.cache
+D:\Dropbox\Coursera C# Unity\4 Data Struct Des Patterns\Module 2 Linked Lists and Graphs\Lesson 1 Linked Lists\Exercise 5 Double the Links\2 1 Visual Studio Exercise 5 Solution\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+D:\Dropbox\Coursera C# Unity\4 Data Struct Des Patterns\Module 2 Linked Lists and Graphs\Lesson 1 Linked Lists\Exercise 5 Double the Links\2 1 Visual Studio Exercise 5 Solution\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+D:\Dropbox\Coursera C# Unity\4 Data Struct Des Patterns\Module 2 Linked Lists and Graphs\Lesson 1 Linked Lists\Exercise 5 Double the Links\2 1 Visual Studio Exercise 5 Solution\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojAssemblyReference.cache
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+C:\Users\timch\Documents\Visual Studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
+C:\Users\timch\source\repos\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+C:\Users\timch\source\repos\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+C:\Users\timch\source\repos\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+C:\Users\timch\source\repos\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\timch\source\repos\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+C:\Users\timch\source\repos\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
